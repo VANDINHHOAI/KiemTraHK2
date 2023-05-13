@@ -1,0 +1,5 @@
+Teacher1:36:Hue:3000000
+Teacher2:32:Ho_Chi_Minh:2000000
+Worker1:30:Da_Nang:4500000
+Worker2:31:Ha_Noi:5500000
+Worker3:34:Hai_Phong:6500000
